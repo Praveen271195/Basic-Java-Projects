@@ -21,14 +21,10 @@ The main aim of this repository is to share the fundamental projects using Java 
 
 The above data analysis projects will contain it's own dataset in the respective folders.
 
-## Libraries used:
-- <a href="https://pandas.pydata.org/">Pandas</a>
-- <a href="https://numpy.org/">Numpy</a>
-- <a href="https://matplotlib.org/">Matplotlib</a>
-- <a href="https://seaborn.pydata.org/">Seaborn</a>
-- <a href="https://scikit-learn.org/stable/">Scikit-learn</a>
+## IDE used:
+
+IntelliJ IDEA
 
 ## Credits:
 
-- <a href="https://www.kaggle.com/">Kaggle</a> for datasets 
 - <a href="https://www.youtube.com/">YouTube</a> for tutorials
