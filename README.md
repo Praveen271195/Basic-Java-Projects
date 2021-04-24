@@ -27,4 +27,4 @@ IntelliJ IDEA
 
 ## Credits:
 
-- <a href="https://www.youtube.com/">YouTube</a> for tutorials
+<a href="https://www.youtube.com/">YouTube</a> for tutorials
