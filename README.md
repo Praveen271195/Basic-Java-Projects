@@ -4,7 +4,7 @@
 The main aim of this repository is to share the fundamental projects using Java as a programming langauge along with it's explanations for the beginners to start learning with application oriented approac.
 
 ## Table of Contents:
-- Stars with Java
+- Stars in Java
 
 ## IDE used:
 IntelliJ IDEA
